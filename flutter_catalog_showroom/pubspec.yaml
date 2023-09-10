@@ -19,6 +19,7 @@ dependencies:
   go_router: ^10.1.2
   http: ^1.1.0
   json_annotation: ^4.8.1
+  shared_preferences: ^2.2.1
 
 dev_dependencies:
   build_runner: ^2.4.6
